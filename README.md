@@ -1,4 +1,4 @@
-8-bit ALU Verilog Project
+8-bit ALU VERILOG PROJECT
 
 Project Overview
 

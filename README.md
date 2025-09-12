@@ -25,3 +25,10 @@ Learning Outcomes
 Hands-on experience with digital logic design and verification.
 Exposure to Verilog coding styles and testbench architecture.
 Ability to explain ALU operations step-by-step.
+
+
+
+
+
+
+<!-- synced with GitHub -->

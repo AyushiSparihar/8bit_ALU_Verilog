@@ -31,4 +31,3 @@ Ability to explain ALU operations step-by-step.
 
 
 
-<!-- synced with GitHub -->

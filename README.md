@@ -9,11 +9,11 @@ Key Features
 
 The ALU supports the following operations:
 
-Arithmetic: Addition, Subtraction
-Logic: AND, OR, XOR, NOR, NAND, XNOR
-Shift: Logical Shift Left, Logical Shift Right
-Rotate: Rotate Left, Rotate Right
-Comparison: Greater-Than, Equality
+Arithmetic: Addition, Subtraction.
+Logic: AND, OR, XOR, NOR, NAND, XNOR.
+Shift: Logical Shift Left, Logical Shift Right.
+Rotate: Rotate Left, Rotate Right.
+Comparison: Greater-Than, Equality.
 Additional features:
 Designed in Verilog HDL for easy integration into larger VLSI designs.
 Includes a testbench for functional verification.
@@ -25,9 +25,3 @@ Learning Outcomes
 Hands-on experience with digital logic design and verification.
 Exposure to Verilog coding styles and testbench architecture.
 Ability to explain ALU operations step-by-step.
-
-
-
-
-
-
